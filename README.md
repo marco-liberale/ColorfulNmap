@@ -36,7 +36,7 @@ git clone https://github.com/marco-liberale/ColorfulNmap
 cd ColorfulNmap
 ```
 
-Replace `repository` with the actual repository name.
+
 
 3. Install the required Python libraries:
 
