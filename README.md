@@ -66,5 +66,8 @@ This script depends on the following Python libraries:
 - `python-nmap` for performing the network scans.
 - `os` for interacting with the operating system.
 - `termcolor` for color-coding the output.
-
+- 
+## Legal Disclamer
+By using the repository, you acknowledge that you have read this [Disclaimer](https://github.com/marco-liberale/ColorfulNmap/blob/main/legal_disclamer.md) and agree to be bound by the terms hereof.
+If you do not agree to abide by the above, please do not use the repository.
 Enjoy :)
