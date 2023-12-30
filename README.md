@@ -63,7 +63,7 @@ The script handles errors and exceptions gracefully. If an error occurs during t
 This script depends on the following Python libraries:
 
 - `argparse` for parsing command-line arguments.
-- `nmap` for performing the network scans.
+- `python-nmap` for performing the network scans.
 - `os` for interacting with the operating system.
 - `termcolor` for color-coding the output.
 
