@@ -33,7 +33,7 @@ git clone https://github.com/marco-liberale/ColorfulNmap
 2. Navigate to the cloned repository:
 
 ```bash
-cd repository
+cd ColorfulNmap
 ```
 
 Replace `repository` with the actual repository name.
