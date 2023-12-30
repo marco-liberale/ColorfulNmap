@@ -68,5 +68,3 @@ This script depends on the following Python libraries:
 - `termcolor` for color-coding the output.
 
 Enjoy :)
-
-Please ensure that these libraries are installed before running the script.
