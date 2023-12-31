@@ -49,10 +49,10 @@ pip install -r requirements.txt
 To use the script, run it from the command line with the desired options. For example:
 
 ```bash
-python main.py -t 192.168.1.1 -p 22-443
+python main.py -t 192.168.1.1 -p 22-443 -A
 ```
 
-This will scan the host at 192.168.1.1 for open ports in the range 22-443.
+This will scan the host at 192.168.1.1 for open ports in the range 22-443 using the Nmap agressive mode.
 
 ## Error Handling
 
