@@ -9,7 +9,7 @@ This Python script is a simple, user-friendly command-line interface for the nma
 - : Display nmap's help message using the `-n` or `--nmap-help` option.
     
 
-- : Specify the range of ports to scan using the `-p` or `--ports` option. By default, ports (1-1000) are scanned.
+- : Specify the range of ports to scan using the `-p` or `--ports` option. By default, ports 1-1000 are scanned.
     
 
 - : Pass any additional arguments for nmap directly to the script. These arguments are forwarded to nmap as-is.
