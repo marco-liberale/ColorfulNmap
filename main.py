@@ -7,7 +7,7 @@ try:
     parser = argparse.ArgumentParser(description="A simple nmap scanning tool")
     parser.add_argument("-t", "--target", type=str, help="target host to scan", required=True)
     parser.add_argument("-n", "--nmap-help", help="show nmap's help message", action="store_true")
-    parser.add_argument("-p", "--ports", type=str, help="port range to scan(e.g. '22-443')", default="1-65535")
+    parser.add_argument("-p", "--ports", type=str, help="port range to scan(e.g. '22-443')", default="1-1000")
     args, unknown = parser.parse_known_args()
 
     args.arguments = ' '.join(unknown)
